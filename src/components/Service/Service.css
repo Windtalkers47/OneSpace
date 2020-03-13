@@ -1,0 +1,61 @@
+*{
+    font-family: 'Kanit', sans-serif !important;
+
+}
+
+.text-color{
+    color: #3dc7c9;
+}
+
+.forums{
+
+    display:inline-block;
+    align-content: center;
+    
+}
+
+.off{
+    padding-left: 12%;
+    width: 92%;
+    line-height: 10px;
+    font-family: 'Kanit', sans-serif !important;
+    font: bold;
+}
+
+.fullWidth{
+    font-family: 'Kanit', sans-serif !important;
+
+}
+#standard-basic-input-placeholder{
+    font-family: 'Kanit', sans-serif !important;
+    text-indent:16px;
+
+}
+
+.forcetext{
+    padding-left: 25%;
+    color: #6D7783;
+}
+
+
+.button {
+    background-color: #F16A54; /* Orange */
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 150px;
+  }
+
+  .button1 {
+      border-radius: 25px;
+      left: 44.72%;
+      right: 44.72%;
+      top: 75.32%;
+      bottom: 22.11%;
+    }

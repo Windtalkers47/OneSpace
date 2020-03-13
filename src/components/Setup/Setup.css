@@ -1,0 +1,23 @@
+
+
+.bgsetup{
+
+    position: absolute;
+    width: 819px;
+    height: 496px;
+    left: -165px;
+    top: 100%px;
+
+}
+
+
+@media only screen and (max-width: 860px) {
+    .bgsetup {
+        position: absolute;
+        width: 80%;
+        height: auto;
+        left: -18%;
+        top: auto;
+        bottom: auto;
+    }
+  }

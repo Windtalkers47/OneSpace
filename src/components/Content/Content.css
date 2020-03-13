@@ -1,0 +1,17 @@
+.indexcoop{ /* หัวข้อ ขนาดรูป */
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: auto;
+    top: auto;
+}
+
+ .text-6xl { /* หัวข้อ OneSpace ส่วน Content */
+    font-family: Kanit;
+    padding-bottom: 10px;
+}
+
+.text-4xl{
+    font-family: Kanit;
+    padding-bottom: .75em;
+}
