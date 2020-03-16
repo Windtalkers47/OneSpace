@@ -10,10 +10,10 @@ function App() {
   return (
    
     <BrowserRouter>
-      <Route exact path="/home">
+      <Route exact path="/">
         <Page1/>
       </Route>
-      <Route path="/page2">
+      <Route path="/contact">
         <Page2/>
       </Route>
     </BrowserRouter>

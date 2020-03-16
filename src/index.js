@@ -13,6 +13,10 @@ const Rounte=()=>(
     </BrowserRouter>
 )
 
+//Javascript to toggle the menu
+//     document.getElementById('nav-toggle').onclick = function(){
+//     document.getElementById("nav-content").classList.toggle("hidden");
+// }
 
 ReactDOM.render(<Rounte />, document.getElementById('root'));
 
